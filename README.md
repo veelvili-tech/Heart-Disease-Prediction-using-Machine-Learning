@@ -121,7 +121,7 @@ To demonstrate real-world applicability, the final model was deployed using Stre
 - Clinical Triage: Supporting diagnostic prioritization when symptoms are present
 - Preventive Healthcare Programs: Targeted lifestyle and treatment interventions
 
-#Tools & Technologies
+# Tools & Technologies
 
 - Python (Pandas, NumPy, Scikit-learn, XGBoost)
 - Data Visualization (Matplotlib, Seaborn)
