@@ -50,7 +50,7 @@ The project follows the CRISP-DM framework, ensuring a structured and business-a
 - Features: 12 clinical and demographic variables
 - Target Variable: Heart disease presence (Yes / No)
 - Missing Values: None
-- Class Balance:
+- Class Distribution:
   - Heart Disease: 52.9%
   - No Heart Disease: 47.1%
 
