@@ -4,7 +4,7 @@ Cardiovascular disease remains one of the leading causes of mortality worldwide,
 
 From a **business and healthcare analytics perspective**, the goal is to support **early intervention, optimized resource allocation, and improved patient outcomes** by identifying high-risk individuals before critical events occur.
 
-The Python code covering the full machine learning workflow, from data processing to model development, can be found here [[link](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning/blob/main/Heart%20Disease%20Prediction%20Using%20Machine%20Learning%20Code.ipynb)].
+**The Python code covering the full machine learning workflow, from data processing to model development, can be found here [[link](https://github.com/veelvili-tech/Heart-Disease-Prediction-using-Machine-Learning/blob/main/Heart%20Disease%20Prediction%20Using%20Machine%20Learning%20Code.ipynb)].**
 
 # Business Problem
 
