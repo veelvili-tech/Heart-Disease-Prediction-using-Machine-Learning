@@ -1,6 +1,6 @@
 # Project Overview
 
-Cardiovascular disease remains one of the leading causes of mortality worldwide, placing significant pressure on healthcare systems to detect and manage risk early. This project focuses on building a **data-driven clinical decision support tool** that predicts an individual’s risk of heart disease using machine learning techniques.
+Cardiovascular disease remains one of the leading causes of mortality worldwide, placing significant pressure on healthcare systems to detect and manage risk early. This project **simulates the work of a data science team within a healthcare technology company** focused on improving cardiovascular risk assessment. This project focuses on building a **data-driven clinical decision support tool** that predicts an individual’s risk of heart disease using machine learning techniques.
 
 From a **business and healthcare analytics perspective**, the goal is to support **early intervention, optimized resource allocation, and improved patient outcomes** by identifying high-risk individuals before critical events occur.
 
