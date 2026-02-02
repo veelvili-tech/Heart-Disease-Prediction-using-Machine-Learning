@@ -112,7 +112,7 @@ The final model selection was based on **predictive performance, stability, and 
 
 To demonstrate real-world applicability, the final model was deployed using Streamlit, allowing users to input patient data and receive an immediate risk classification.
 
-# Live Application:
+### Live Application:
 [https://da-heart-disease-prediction-magxjvbgweqhpadsoj6whe.streamlit.app/] 
 
 # Practical Use Cases
