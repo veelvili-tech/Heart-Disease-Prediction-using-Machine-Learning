@@ -94,6 +94,11 @@ Evaluation Metrics
 - Recall
 - F1-Score
 - ROC-AUC
+  
+<img width="845" height="410" alt="Screenshot 2026-02-02 181229" src="https://github.com/user-attachments/assets/6894172b-8ae2-4760-b5ed-c2ae2f55dd15" />
+
+<img width="845" height="410" alt="Screenshot 2026-02-02 181325" src="https://github.com/user-attachments/assets/d4f40ad1-e707-411e-8256-532fe3ddf6c1" />
+
 
 The final model selection was based on **predictive performance, stability, and business interpretability.**
 
