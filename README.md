@@ -31,10 +31,15 @@ This project demonstrates how **predictive analytics** can complement clinical w
 The project follows the CRISP-DM framework, ensuring a structured and business-aligned workflow:
 
 **1. Business Understanding** – Translating healthcare needs into predictive objectives
+
 **2. Data Understanding** – Exploring patient health indicators and outcome variables
+
 **3. Data Preparation** – Cleaning, standardizing, and selecting relevant features
+
 **4. Modeling** – Comparing multiple supervised learning algorithms
+
 **5. Evaluation** – Selecting the most effective model using robust performance metrics
+
 **6. Deployment** – Delivering insights via a Streamlit web application
 
 <img width="500" height="278" alt="image" src="https://github.com/user-attachments/assets/f03efdb8-3f55-4f10-bd62-b897a4c67e4e" />
