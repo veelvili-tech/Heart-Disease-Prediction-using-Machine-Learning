@@ -79,7 +79,7 @@ These insights align closely with established clinical knowledge, reinforcing th
 - Standardized numerical features to improve model performance
 - Applied Lasso Regression for feature selection to reduce noise and improve interpretability
 
-#Modeling & Evaluation
+# Modeling & Evaluation
 Multiple supervised learning models were developed and compared:
 
 - Logistic Regression
